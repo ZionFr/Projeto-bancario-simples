@@ -4,10 +4,9 @@ Projeto simples em Java criado para fins de estudo. Usei conceitos fundamentais 
 
 Funcionalidades:
 
-• Criação de contas bancárias
-• Depósito de valores
-• Saque de valores
-• Exibição de dados da conta
+• Depósito
+• Saque
+• Exibir quantia na conta
 
 Tecnologias utilizadas:
 
